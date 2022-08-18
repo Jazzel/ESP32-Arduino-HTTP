@@ -1,0 +1,13 @@
+{
+  "name": "ESP32-Arduino-HTTP",
+  "version": "1.0.0",
+  "description": "Server for request handling",
+  "main": "index.js",
+  "license": "MIT",
+  "repository": "https://github.com/Jazzel/ESP32-Arduino-HTTP",
+  "author": "Muhammad Jazzel Mehmood",
+  "private": false,
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
